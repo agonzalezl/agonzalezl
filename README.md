@@ -25,7 +25,7 @@ I’m a Software Developer and Data Scientists working at [Mpya Digital](https:/
 
 - 🤖 Artificial Intelligence 
 - ₿ Crypto and Blockchain
-- 👾 Video Games adn eSports
+- 👾 Video Games and eSports
 - 🎷 Music
 
 
