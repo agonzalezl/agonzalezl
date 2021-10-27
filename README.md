@@ -1,3 +1,5 @@
+## 👋 Hello and welcome to my GitHub profile
+
 I’m a Software Developer and Data Scientists working at [Mpya Digital](https://mpyadigital.com/)
 
 ### 🛠 Technology Stack
@@ -8,12 +10,15 @@ I’m a Software Developer and Data Scientists working at [Mpya Digital](https:/
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-red)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=ElasticSearch&logoColor=white)
 
-![Jenkisn](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white)
 
 
 ### 🌱 Currently learning
