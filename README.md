@@ -1,6 +1,6 @@
 ## 👋 Hello and welcome to my GitHub profile
 
-I’m a Software Developer and Data Scientists working at [Mpya Digital](https://mpyadigital.com/)
+I’m a Software Developer and Data Scientists.
 
 ### 🛠 Technology Stack
 
