@@ -21,11 +21,6 @@ I’m a Software Developer and Data Scientists.
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white)
 
 
-### 🌱 Currently learning
-
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-orange)
-
 ### ❤️ Interests
 
 - 🤖 Artificial Intelligence 
@@ -33,6 +28,9 @@ I’m a Software Developer and Data Scientists.
 - 👾 Video Games and eSports
 - 🎷 Music
 
+### 🌱 My Projects
+
+[The Repo Game](https://the-repo-game.vercel.app/)
 
 ### 📫 How to reach me:
 
