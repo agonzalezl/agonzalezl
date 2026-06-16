@@ -4,11 +4,10 @@ I’m a Software Developer and Data Scientists.
 
 ### 🛠 Technology Stack
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-orange)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-red)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=ElasticSearch&logoColor=white)
